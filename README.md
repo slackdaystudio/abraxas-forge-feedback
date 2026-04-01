@@ -1,12 +1,12 @@
-# Gemini Studio - Community Feedback & Bug Reports
+# Abraxas Forge - Community Feedback & Bug Reports
 
-Welcome to the Gemini Studio community feedback hub! 👋
+Welcome to the Abraxas Forge community feedback hub! 👋
 
-We're glad to have you here and grateful that you're taking the time to help us make Gemini Studio better. Whether you've discovered a bug, have an idea for a new feature, or just want to share your experience, your voice matters.
+We're glad to have you here and grateful that you're taking the time to help us make Abraxas Forge better. Whether you've discovered a bug, have an idea for a new feature, or just want to share your experience, your voice matters.
 
-## 🎯 What is Gemini Studio?
+## 🎯 What is Abraxas Forge?
 
-Gemini Studio is a comprehensive character creation and management tool for the Gemini TTRPG system. Our goal is to make building and playing characters intuitive, powerful, and enjoyable for players and Game Masters alike.
+Abraxas Forge is a comprehensive character creation and management tool for the Abraxas TTRPG system. Our goal is to make building and playing characters intuitive, powerful, and enjoyable for players and Game Masters alike.
 
 ## 🐛 Found a Bug?
 
@@ -18,7 +18,7 @@ Bugs happen, and we appreciate you taking the time to report them! When submitti
 4. Add screenshots if relevant
 5. Mention which platform you're using (web, mobile, etc.)
 
-[**Report a Bug →**](https://github.com/slackdaystudio/gemini-studio-feedback/issues/new?template=bug_report.md)
+[**Report a Bug →**](https://github.com/slackdaystudio/abraxas-forge-feedback/issues/new?template=bug_report.md)
 
 ## 💡 Have an Idea?
 
@@ -29,19 +29,15 @@ We love hearing your ideas! Feature requests help us understand what the communi
 3. **Share your use case** - how would this help your games?
 4. **Consider alternatives** you might have thought of
 
-[**Request a Feature →**](https://github.com/slackdaystudio/gemini-studio-feedback/issues/new?template=feature_request.md)
+[**Request a Feature →**](https://github.com/slackdaystudio/abraxas-forge-feedback/issues/new?template=feature_request.md)
 
 ## 💬 Join the Community
 
 Not sure if it's a bug or a feature request? Just want to chat? We have multiple ways to connect:
 
 - **[Join our Discord Server](https://discord.gg/AWSdEQHwsn)** - Real-time chat, questions, character sharing, and community discussions
-- **[GitHub Discussions](https://github.com/slackdaystudio/gemini-studio-feedback/discussions)** - For longer-form conversations and ideas
-- **Share your success stories** - We love hearing how Gemini Studio helped your game!
-
-## 🌟 Beta Testing Program
-
-Interested in early access to new features and helping shape the future of Gemini Studio? Check out our [Beta II Program](https://the-gemini-system.com/beta-ii/) - the first 100 participants receive a free lifetime membership upgrade!
+- **[GitHub Discussions](https://github.com/slackdaystudio/abraxas-forge-feedback/discussions)** - For longer-form conversations and ideas
+- **Share your success stories** - We love hearing how Abraxas Forge helped your game!
 
 ## 🤝 Community Guidelines
 
@@ -55,16 +51,16 @@ We're building a welcoming, constructive community. Please:
 ## 📚 Additional Resources
 
 - **Discord Community**: [discord.gg/AWSdEQHwsn](https://discord.gg/AWSdEQHwsn)
-- **Gemini RPG System**: [the-gemini-system.com](https://the-gemini-system.com)
-- **Gemini Studio Web App**: [beta.the-gemini-system.com](https://beta.the-gemini-system.com)
+- **Abraxas RPG System**: [abraxas.rocks](https://abraxas.rocks)
+- **Abraxas Forge Web App**: [forge.abraxas.rocks](https://forge.abraxas.rocks)
 - **System Documentation**: Coming soon!
 
 ## 🙏 Thank You
 
-Every bug report, feature request, and piece of feedback makes Gemini Studio better. Whether you're reporting your first issue or your fiftieth, we're grateful for your contribution to the community.
+Every bug report, feature request, and piece of feedback makes Abraxas Forge better. Whether you're reporting your first issue or your fiftieth, we're grateful for your contribution to the community.
 
 Happy gaming! 🎲
 
 ---
 
-*This repository is for community feedback and bug tracking. The Gemini Studio source code is maintained in a private repository.*
+*This repository is for community feedback and bug tracking. The Abraxas Forge source code is maintained in a private repository.*

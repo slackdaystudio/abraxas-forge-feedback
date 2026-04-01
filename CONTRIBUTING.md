@@ -1,6 +1,6 @@
-# Contributing to Gemini Studio
+# Contributing to Abraxas Forge
 
-First off, thank you for considering contributing to Gemini Studio! 🎉
+First off, thank you for considering contributing to Abraxas Forge! 🎉
 
 ## How Can I Contribute?
 
@@ -25,9 +25,9 @@ Feature requests are welcome! Please use our [feature request template](.github/
 
 ### 💬 Participating in Discussions
 
-Not every contribution needs to be an issue! [Discussions](https://github.com/slackdaystudio/gemini-studio-feedback/discussions) are great for:
+Not every contribution needs to be an issue! [Discussions](https://github.com/slackdaystudio/abraxas-forge-feedback/discussions) are great for:
 - Asking questions
-- Sharing how you use Gemini Studio
+- Sharing how you use Abraxas Forge
 - Proposing ideas that need community input
 - Helping other users
 
@@ -35,7 +35,7 @@ Not every contribution needs to be an issue! [Discussions](https://github.com/sl
 
 ### Be Kind and Constructive
 
-- **Assume good intentions** - we're all here to make Gemini Studio better
+- **Assume good intentions** - we're all here to make Abraxas Forge better
 - **Provide context** - help us understand your perspective
 - **Stay on topic** - keep discussions relevant
 - **Be patient** - we're a small team juggling many priorities
@@ -61,7 +61,7 @@ Contributors who provide valuable feedback, detailed bug reports, or great featu
 
 ## Questions?
 
-If you're unsure about something, just ask! Open a [Discussion](https://github.com/slackdaystudio/gemini-studio-feedback/discussions) or add a comment to an existing issue.
+If you're unsure about something, just ask! Open a [Discussion](https://github.com/slackdaystudio/abraxas-forge-feedback/discussions) or add a comment to an existing issue.
 
 ## Code of Conduct
 
@@ -90,4 +90,4 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may result i
 
 ---
 
-Thank you for helping make Gemini Studio better for everyone! 🎲
+Thank you for helping make Abraxas Forge better for everyone! 🎲

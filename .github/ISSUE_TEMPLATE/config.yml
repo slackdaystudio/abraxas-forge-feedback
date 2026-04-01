@@ -4,11 +4,8 @@ contact_links:
     url: https://discord.gg/AWSdEQHwsn
     about: Chat with the community, get help, share characters, and discuss ideas in real-time!
   - name: 🗨️ General Discussion
-    url: https://github.com/slackdaystudio/gemini-studio-feedback/discussions
+    url: https://github.com/slackdaystudio/abraxas-forge-feedback/discussions
     about: For questions, ideas, or conversations that don't fit a bug/feature template
-  - name: 🌟 Beta II Program
-    url: https://the-gemini-system.com/beta-ii/
-    about: Join our beta program and get a free lifetime membership upgrade!
-  - name: 📚 Gemini System Website
-    url: https://the-gemini-system.com
-    about: Learn more about the Gemini RPG system
+  - name: 📚 Abraxas System Website
+    url: https://abraxas.rocks
+    about: Learn more about the Abraxas RPG system

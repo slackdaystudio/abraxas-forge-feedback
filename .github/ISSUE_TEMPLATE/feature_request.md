@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Suggest an idea to make Gemini Studio better
+about: Suggest an idea to make Abraxas Forge better
 title: '[FEATURE] '
 labels: enhancement
 assignees: ''
@@ -12,7 +12,7 @@ A clear and concise description of the feature you'd like to see.
 
 ## 🎯 Problem or Use Case
 
-What problem does this feature solve? How would it improve your experience with Gemini Studio?
+What problem does this feature solve? How would it improve your experience with Abraxas Forge?
 
 **Example**: "I often need to create multiple characters with similar attributes for NPCs in my campaign, but currently I have to manually re-enter everything..."
 
@@ -45,4 +45,4 @@ Any other information, examples, or context that would help us understand your r
 
 ---
 
-Thank you for helping shape the future of Gemini Studio! We carefully consider every feature request.
+Thank you for helping shape the future of Abraxas Forge! We carefully consider every feature request.
